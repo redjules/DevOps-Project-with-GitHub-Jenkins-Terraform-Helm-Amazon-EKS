@@ -2,7 +2,7 @@
 
 Architecture:
 
-<img width="355" alt="Screenshot 2024-01-23 at 10 17 59" src="https://github.com/redjules/DevOps-Project-with-GitHub-Jenkins-Terraform-Helm-Amazon-EKS/assets/106017493/5beb232f-a9d5-4eae-b9bf-2d3ff803db6a">
+<img width="1234" alt="Screenshot 2024-01-23 at 10 24 50" src="https://github.com/redjules/DevOps-Project-with-GitHub-Jenkins-Terraform-Helm-Amazon-EKS/assets/106017493/9d007656-f0c6-4574-95d0-013423519fc7">
 
 # Installation:
 
