@@ -44,8 +44,10 @@ If you don't already have Homebrew installed, follow these steps:
 
 Open Terminal.
 Run the following command:
+
 bash
 Copy code
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 Follow the on-screen instructions to complete the installation.
 
